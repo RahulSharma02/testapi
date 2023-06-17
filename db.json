@@ -1,0 +1,58 @@
+{
+    "products": [
+      {
+        "name": "Μίξερ με Κάδο Cecotec Cecomixer Easy 3Lt",
+        "id": "63381",
+        "sku": "CEC-04041"
+      },
+      {
+        "name": "Σκουπάκι Χειρός H.Koenig Κυκλωνικής Τεχνολογίας 12 V TCP85",
+        "id": "63382",
+        "sku": "TCP85"
+      },
+      {
+        "name": "Παγωτομηχανή H.Koenig SRB60",
+        "id": "63383",
+        "sku": "SRB60"
+      },
+      {
+        "name": "Ηλεκτρική Σκούπα H.Koenig TC120",
+        "id": "63385",
+        "sku": "TC120"
+      },
+      {
+        "name": "Στίφτης H.Koenig με 2 Κώνους Στυψίματος AGR60",
+        "id": "63387",
+        "sku": "AGR60"
+      },
+      {
+        "name": "Πολυμάγειρας H.Koenig 1300W HKM1032",
+        "id": "63388",
+        "sku": "HKM1032"
+      },
+      {
+        "name": "Παρασκευαστής για Κρέπες H.Koenig GOO30",
+        "id": "63389",
+        "sku": "GOO30"
+      },
+      {
+        "name": "Διανεμητής Μπύρας με Ψύξη H.Koenig Draft BW1778",
+        "id": "63390",
+        "sku": "BW1778"
+      },
+      {
+        "name": "Διανεμητής Μπύρας H.Koenig Draft με Ψύξη BW1880",
+        "id": "63391",
+        "sku": "BW1880"
+      },
+      {
+        "name": "Φρυγανιέρα H.Koenig για Όλους τους Τύπους Ψωμιών TOS28",
+        "id": "63393",
+        "sku": "TOS28"
+      }
+    ],
+    "totalPages": 4218,
+    "totalProducts": 42180,
+    "currentPage": 1,
+    "limit": 10
+  }
